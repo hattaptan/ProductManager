@@ -28,6 +28,7 @@ namespace ProductManager.Entity.Entity
         [JsonConstructor]
         public Product(int id, string name, string category, string description, int price, int quantity, string suppliers)
         {
+
             Id = id;
             this.name = name;
             this.category = category;
