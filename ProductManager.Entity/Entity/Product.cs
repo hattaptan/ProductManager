@@ -29,10 +29,10 @@ namespace ProductManager.Entity.Entity
         public Product(int id, string name, string category, string description, int price, int quantity, string suppliers)
         {
             Id = id;
-            Name = name;
+            this.name = name;
             this.category = category;
             this.description = description;
-            Price = price;
+            this.price = price;
             this.quantity = quantity;
             this.suppliers = suppliers;
         }

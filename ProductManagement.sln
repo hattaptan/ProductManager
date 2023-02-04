@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductManager.Entity", "ProductManager.Entity\ProductManager.Entity.csproj", "{E56E7D1C-9072-40CD-9A23-072B68DD1564}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductManagement.Entity", "ProductManager.Entity\ProductManagement.Entity.csproj", "{E56E7D1C-9072-40CD-9A23-072B68DD1564}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductManager.API", "ProductManager.API\ProductManager.API.csproj", "{8B1AEFDE-F7B8-48C7-8A1E-184640C588F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductManagement.API", "ProductManager.API\ProductManagement.API.csproj", "{8B1AEFDE-F7B8-48C7-8A1E-184640C588F4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductManager.Base", "ProductManager.Base\ProductManager.Base.csproj", "{0E838C9D-C329-4928-8B02-EFBD8B5C3678}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductManagement.Base", "ProductManager.Base\ProductManagement.Base.csproj", "{0E838C9D-C329-4928-8B02-EFBD8B5C3678}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
